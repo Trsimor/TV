@@ -3,7 +3,7 @@
 http://cistakosuza.petica.info/live/Ivan996/6kV5NQ/89193.m3u
 #EXTINF:-1 tvg-id="Eurosport2.rs",EUROSPORT 2
 http://cistakosuza.petica.info/live/Ivan996/6kV5NQ/67.m3u
-#EXTINF:-1 tvg-id="ArenaAdrenalin.rs",ARENA ADRENALIN
+#EXTINF:-1 tvg-id="ArenaAdrenalin.rs",ADRENALIN
 http://cistakosuza.petica.info/live/Ivan996/6kV5NQ/86307.m3u
 #EXTINF:-1 tvg-id="SkySportsF1.uk",SKY SPORTS F1
 http://184585.ipturk.eu:80/live/gokceoglu/zpsx247b36/247370.ts
@@ -13,13 +13,3 @@ http://184585.ipturk.eu:80/live/gokceoglu/zpsx247b36/232435.ts
 http://1xtr.icu:8080/live/AYPNk4/778524/53649.ts
 #EXTINF:-1 tvg-id="BBCTwo.uk",BBC TWO
 http://1xtr.icu:8080/live/AYPNk4/778524/53650.ts
-#EXTINF:-1 tvg-id="FoxSports1.us",FOX SPORTS 1
-http://1xtr.icu:8080/live/AYPNk4/778524/46792.ts
-#EXTINF:-1 tvg-id="FoxSports2.us",FOX SPORTS 2
-http://1xtr.icu:8080/live/AYPNk4/778524/1847.ts
-#EXTINF:-1 tvg-id="FOXWNYW.us",FOX 5
-http://1xtr.icu:8080/live/AYPNk4/778524/120750.ts
-#EXTINF:-1 tvg-id="FoxSports1.us",FOX SPORTS 1
-http://bgdc.live:25461/terryhuber/726565252/100735
-#EXTINF:-1 tvg-id="FoxSports2.us",FOX SPORTS 2
-http://bgdc.live:25461/terryhuber/726565252/99151
