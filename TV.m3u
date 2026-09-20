@@ -1,3 +1,3 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
+#EXTM3U x-tvg-url="https://epg.lat/files/us.xml.gz"
 #EXTINF:-1 tvg-id="FoxSports1.us",FOX SPORTS 1
 http://1xtr.icu:8080/live/AYPNk4/778524/46792.ts
