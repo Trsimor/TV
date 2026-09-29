@@ -17,3 +17,7 @@ http://1xtr.icu:8080/live/AYPNk4/778524/53649.ts
 http://1xtr.icu:8080/live/AYPNk4/778524/53650.ts
 #EXTINF:-1 tvg-id="ITV1London.uk",ITV1
 http://1xtr.icu:8080/live/AYPNk4/778524/53651.ts
+#EXTINF:-1 tvg-id="Channel4.uk",Channel 4
+http://1xtr.icu:8080/live/AYPNk4/778524/99138.ts
+#EXTINF:-1 tvg-id="Channel5.uk",Channel 5
+http://1xtr.icu:8080/live/AYPNk4/778524/53653.ts
