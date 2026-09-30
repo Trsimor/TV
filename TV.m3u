@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-kgpfdsleyz.xml.gz"
 #EXTINF:-1 tvg-id="Eurosport1.rs",EUROSPORT 1
-http://cistakosuza.petica.info/live/Bilburger1/e9XTse/66.m3u
+http://184585.ipturk.eu:80/mesutozturk/MOusfuUrTV/357317
 #EXTINF:-1 tvg-id="Eurosport2.rs",EUROSPORT 2
-http://cistakosuza.petica.info/live/Bilburger1/e9XTse/67.m3u
+http://184585.ipturk.eu:80/mesutozturk/MOusfuUrTV/357318
 #EXTINF:-1 tvg-id="ArenaAdrenalin.rs",ADRENALIN
 http://cistakosuza.petica.info/live/Bilburger1/e9XTse/86307.m3u
 #EXTINF:-1 tvg-id="SkySportsF1.uk",SKY SPORTS F1
-http://184585.ipturk.eu:80/live/gokceoglu/zpsx247b36/247370.ts
+http://184585.ipturk.eu:80/mesutozturk/MOusfuUrTV/247370
 #EXTINF:-1 tvg-id="SkySportF1.de",SKY SPORT F1
 http://cistakosuza.petica.info/live/Bilburger1/e9XTse/33079.m3u
 #EXTINF:-1 tvg-id="SkySportF1.de",SKY SPORT F1
