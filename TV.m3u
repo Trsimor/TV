@@ -3,10 +3,12 @@
 http://184585.ipturk.eu:80/user05438574031/2108us2020/357317
 #EXTINF:-1 tvg-id="Eurosport2.rs",EUROSPORT 2
 http://184585.ipturk.eu:80/user05438574031/2108us2020/357318
-#EXTINF:-1 tvg-id="ArenaAdrenalin.rs",ADRENALIN
-http://cistakosuza.petica.info/live/Bilburger1/e9XTse/86307.m3u
 #EXTINF:-1 tvg-id="SkySportsF1.uk",SKY SPORTS F1
 http://184585.ipturk.eu:80/user05438574031/2108us2020/247370
+#EXTINF:-1 tvg-id="SkySportsF1.de",SKY SPORT F1
+http://184585.ipturk.eu:80/user05438574031/2108us2020/232435
+#EXTINF:-1 tvg-id="ArenaAdrenalin.rs",ADRENALIN
+http://cistakosuza.petica.info/live/Bilburger1/e9XTse/86307.m3u
 #EXTINF:-1 tvg-id="SkySportF1.de",SKY SPORT F1
 http://cistakosuza.petica.info/live/Bilburger1/e9XTse/33079.m3u
 #EXTINF:-1 tvg-id="SkySportF1.de",SKY SPORT F1
@@ -17,3 +19,7 @@ http://1xtr.icu:8080/584899/548456/53649
 http://1xtr.icu:8080/584899/548456/53650
 #EXTINF:-1 tvg-id="ITV1London.uk",ITV1
 http://1xtr.icu:8080/584899/548456/53651
+#EXTINF:-1,FOX SPORTS 1
+http://184585.ipturk.eu:80/user05438574031/2108us2020/358934
+#EXTINF:-1,FOX SPORTS 2
+http://184585.ipturk.eu:80/user05438574031/2108us2020/358933
